@@ -12,7 +12,7 @@ public class Driver {
 	public static final int HEIGHT = 400;
 	private double halfWidth;
 	private double halfHeight;
-	public static final int VIEWLENGTH = 200; //Smaller viewlength increases weirdness
+	public static final int VIEWLENGTH = 200;
 	public static final double EPSILON = 1e-14;
 	
 	public static void main(String[] args) {
